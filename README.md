@@ -3,7 +3,7 @@ Improving the quality of life for visually impaired peoples
 
 
 ## Summary
-A Product Based Software for assisting Visually impaired Peoples.
+A Product Based Software for assisting Visually impaired peoples.
 
 The software is designed to assist visually impaired individuals by using a camera to capture images of items, and then uses optical character recognition (OCR) to extract text from the image. The user can then interact with the software using hand gestures to zoom in and out of the image, and press a key to save the text to a file. The software also integrates with OpenAI's GPT API to generate a response to a prompt based on the saved text. The software is implemented using Python and various libraries such as OpenCV, pytesseract, and imutils.
 ## CONTRIBUTOR LIST
