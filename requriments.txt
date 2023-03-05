@@ -1,0 +1,12 @@
+numpy 
+imutils
+matplotlib 
+openai
+opencv-python
+pytesseract
+pyttsx3
+requests
+cvzone
+mediapipe
+ultralytics
+supervision
