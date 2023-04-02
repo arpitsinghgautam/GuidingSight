@@ -9,14 +9,13 @@ The software is designed to assist visually impaired individuals by using a came
 ## CONTRIBUTOR LIST
 
 This program was developed solely by me, Arpit Singh Gautam
+
 ## NAVIGATING THE REPO
 
 #### main.py 
 The source code is written here
 #### GuidingSight.png
 Its the design for the GuidingSight Product.
-#### WayneHacks.png
-Its the things requred to complete in the WayneHacks hackathon.
 #### ProductCaptured.txt
 This is the file in which the text from the Image is saved.
 #### requriments.txt
